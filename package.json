@@ -19,7 +19,7 @@
     "@nuxtjs/bulma": "^1.2.0",
     "cross-env": "^5.2.0",
     "d3-array": "^2.0.3",
-    "d3-color": "^1.2.3",
+    "d3-color": "^3.1.0",
     "d3-scale": "^2.1.2",
     "d3-scale-chromatic": "^1.3.3",
     "mapbox-gl": "^0.52.0",
